@@ -1,6 +1,5 @@
 
-
-<img src="https://user-images.githubusercontent.com/71512544/188353837-5d05c4f7-e841-4501-b8a7-690706db1848.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Laptop">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Laptop">
 <p align="left"> 
   👋 Hi, I'm Nícolas Lopes!! I'm a <strong>Python Developer</strong>.<br>
 
