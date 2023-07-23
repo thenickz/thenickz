@@ -3,7 +3,7 @@
 <p align="left"> 
   👋 Hi, I'm Nícolas Lopes!! I'm a <strong>Python Developer</strong>.<br>
 
-  📚 Mechatronics Engineering Student: <img src="https://progress-bar.dev/50/" align="center">
+  📚 Mechatronics Engineering Student: <img src="https://progress-bar.dev/80/" align="center">
 </p>
 
 <p align="left">
