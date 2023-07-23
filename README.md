@@ -9,7 +9,7 @@
 <p align="left">
    🧠 Skills: 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="80px" align="center"/> 
-  <imag src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">      
+  <imag src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"  width="80px" align="center">      
 </p>
 
 <p align="left">
