@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenickz&layout=compact" alt="Top Langs" align="right"/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="300px" width="230px" align="right" alt="Laptop">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="300px" width="200px" align="right" alt="Laptop">
 
 
 
