@@ -6,7 +6,7 @@
   <!--- ## SKILL SECTION ## --> 
   ## Academic
   I`m currently studying two majors:
-  - <img src="https://progress-bar.dev/80/" align="center"> **Mechatronics Engineering**      
+  - <img src="https://progress-bar.dev/80/" align="center"> **Mechatronic Engineer**      
   - <img src="https://progress-bar.dev/40/" align="center"> **System Analysis and Development** 
   
   <!--- ## SKILL SECTION ## --> 
