@@ -9,14 +9,14 @@
 <div align="left">
 
   <!--- ## SKILL SECTION ## --> 
-  ## Academic
+  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Academic
   I`m currently studying two majors:
   - <img src="https://progress-bar.dev/80/" align="center"> **Mechatronic Engineer**      
-  - <img src="https://progress-bar.dev/40/" align="center"> **System Analysis & Dev** 
+  - <img src="https://progress-bar.dev/40/" align="center"> **System Analysis & Dev**
   
   <!--- ## KNOWLEDGES SECTION ## --> 
-  ## Knowledges
-  ### 🧠 Main Skills: 
+  ## 🧠 Knowledges
+  ### Main Skills: 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><!--- Python -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><!--- C -->
   <img src="https://img.shields.io/badge/STM32-005cfc?style=for-the-badge"><!--- STM32 -->
@@ -39,9 +39,9 @@
 
   <!--- ## CONTACT SECTION ## -->
   ## Contact me!
-  <a href="mailto:nicklopes2098@gmail.com" alt="Gmail">
+  <a href="mailto:nicolas.lopes.contato@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-  <a href="https://www.linkedin.com/in/n%C3%ADcolas-lopes-engineering-dev/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/nicolas-lopes-eng-dev/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
   
 </div>
