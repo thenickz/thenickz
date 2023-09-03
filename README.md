@@ -12,7 +12,7 @@
   ## Academic
   I`m currently studying two majors:
   - <img src="https://progress-bar.dev/80/" align="center"> **Mechatronic Engineer**      
-  - <img src="https://progress-bar.dev/40/" align="center"> **System Analysis and Development** 
+  - <img src="https://progress-bar.dev/40/" align="center"> **System Analysis and Develop** 
   
   <!--- ## KNOWLEDGES SECTION ## --> 
   ## Knowledges
