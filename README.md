@@ -2,12 +2,12 @@
  <!--- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Laptop"> -->
  
 <div align="left">
-  
+
+  <!--- ## SKILL SECTION ## --> 
   ## Academic
-  I`m currently studying two majors:<br>
-  **Mechatronics Engineering:** <img src="https://progress-bar.dev/80/" align="center">
-  <br>
-  **System Analysis and Development:** <img src="https://progress-bar.dev/40/" align="center">
+  I`m currently studying two majors:
+  - <img src="https://progress-bar.dev/80/" align="center"> **Mechatronics Engineering**      
+  - <img src="https://progress-bar.dev/40/" align="center"> **System Analysis and Development** 
   
   <!--- ## SKILL SECTION ## --> 
   ## 🧠 Skills: 
