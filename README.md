@@ -1,3 +1,9 @@
+<div>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Nícolas%20Lopes&fontSize=70"/>
+</div>
+
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenickz&layout=compact" alt="Top Langs" align="right"/>
  <!--- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Laptop"> -->
  
@@ -54,3 +60,6 @@
 
 
 
+<div>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
