@@ -11,8 +11,8 @@
   <!--- ## SKILL SECTION ## --> 
   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Academic
   I`m currently studying two majors:
-  - <img src="https://progress-bar.dev/80/" align="center"> **Mechatronic Engineer**      
-  - <img src="https://progress-bar.dev/40/" align="center"> **System Analysis & Dev**
+  - <img src="https://progress-bar.dev/90/" align="center"> **Mechatronic Engineer**      
+  - <img src="https://progress-bar.dev/60/" align="center"> **System Analysis & Dev**
   
   <!--- ## KNOWLEDGES SECTION ## --> 
   ## 🧠 Knowledges
