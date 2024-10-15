@@ -3,9 +3,10 @@
   <!--- ## ACADEMIC CURRICULUM SECTION ## --> 
   ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Academic
   I'm currently pursuing two majors:
-  - <img src="https://progress-bar.dev/85/" align="center"> **B.S. Mechatronic Engineer**      
-  - <img src="https://progress-bar.dev/70/" align="center"> **A.A.S. in Computer Science**
-  
+<!--- <img src="https://progress-bar.dev/85/" align="center"> **B.S. Mechatronic Engineer**   
+  - <img src="https://progress-bar.dev/70/" align="center"> **A.A.S. in Computer Science**--> 
+  - **B.S. Mechatronic Engineer**
+  - **A.A.S. in Computer Science**
   <!--- ## KNOWLEDGES SECTION ## --> 
   ## 🧠 Knowledges
   ### Main Skills: 
