@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><!--- CSS -->
 
   <!--- Microcontroller sub section -->
-  ### Embedded Systens:
+  ### Embedded Systems:
   <img src="https://img.shields.io/badge/STM32-005cfc?style=for-the-badge"><!--- STM32 -->
   <img src="https://img.shields.io/badge/ESP32-8A2BE2?style=for-the-badge"><!--- ESP32 -->
   <img src="https://img.shields.io/badge/NXP-ff7400?style=for-the-badge"><!--- NXP -->
