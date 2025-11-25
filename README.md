@@ -1,13 +1,13 @@
 <div align="left">
 
   <!--- ## ACADEMIC CURRICULUM SECTION ## --> 
-  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Academic background:
+  ## Academic background:
 <!--- <img src="https://progress-bar.dev/85/" align="center"> **B.S. Mechatronic Engineer**   
   - <img src="https://progress-bar.dev/70/" align="center"> **A.A.S. in Computer Science**--> 
   - **B.S. Mechatronic Engineer**
   - **A.A.S. in Computer Science**
   <!--- ## KNOWLEDGES SECTION ## --> 
-  ## 🧠 Knowledges
+  ## Knowledges
   ### Main Skills: 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><!--- Python -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><!--- C -->
