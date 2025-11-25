@@ -51,7 +51,7 @@
   </a>
   nicklopes2098@gmail.com
   <br/>
-  <a>ou</a>
+  <a>or</a>
   <a>niclopes@pm.me</a>
   <br/>
   <a href="https://www.linkedin.com/in/nicolas-lopes-eng-dev/" alt="Linkedin">
