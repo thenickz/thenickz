@@ -6,6 +6,7 @@
   - <img src="https://progress-bar.dev/70/" align="center"> **A.A.S. in Computer Science**--> 
   - **B.S. Mechatronic Engineer**
   - **A.A.S. in Computer Science**
+  - **B.S. Software Engineer**
   <!--- ## KNOWLEDGES SECTION ## --> 
   ## Knowledges
   ### Main Skills: 
