@@ -3,10 +3,11 @@
   <!--- ## ACADEMIC CURRICULUM SECTION ## --> 
   ## Academic background:
 <!--- <img src="https://progress-bar.dev/85/" align="center"> **B.S. Mechatronic Engineer**   
-  - <img src="https://progress-bar.dev/70/" align="center"> **A.A.S. in Computer Science**--> 
-  - **B.S. Mechatronic Engineer**
+  - <img src="https://progress-bar.dev/70/" align="center"> **A.A.S. in Computer Science**-->
+  
   - **A.A.S. in Computer Science**
-  - **B.S. Software Engineer**
+  - **(studying) B.S. Mechatronic Engineer**
+  - **(studying) B.S. Software Engineer**
   <!--- ## KNOWLEDGES SECTION ## --> 
   ## Knowledges
   ### Main Skills: 
