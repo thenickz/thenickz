@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1012" height="80" viewBox="0 0 1012 80" role="img" aria-label="Terminal prompt: Hi, I'm Nícolas Lopes">
+  <title>Hi, I'm Nícolas Lopes</title>
+  <rect width="1012" height="80" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+  <circle cx="24" cy="24" r="6" fill="#ff5f57" stroke="#e0443e" stroke-width="1"/>
+  <circle cx="44" cy="24" r="6" fill="#febc2e" stroke="#dea123" stroke-width="1"/>
+  <circle cx="64" cy="24" r="6" fill="#28c840" stroke="#1aab29" stroke-width="1"/>
+  <line x1="12" y1="38" x2="1000" y2="38" stroke="#d0d7de" stroke-width="1"/>
+  <text x="20" y="66" font-family="Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="26" fill="#1f2328">
+    <tspan>&gt; Hi, I&#39;m </tspan><tspan font-weight="bold">Nícolas Lopes</tspan>
+  </text>
+</svg>

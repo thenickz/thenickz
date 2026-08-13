@@ -1,62 +1,83 @@
-## About Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/greeting-dark.svg">
+  <img alt="Hi, I'm Nícolas Lopes" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/greeting-light.svg" width="1012">
+</picture>
+<br>
 
-Backend-focused Software Engineer passionate about building scalable, maintainable systems with Python and modern technologies.
+## <code><b>Software Engineer</b></code> building Backend Systems with Python
 
-Currently seeking opportunities to grow as a Software Engineer while expanding my expertise in scalable backend systems, cloud infrastructure, and software architecture.
+<div>
+<a href="mailto:nicklopes2098@gmail.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/gmail-dark.svg">
+  <img alt="Gmail" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/gmail-light.svg">
+</picture></a>
+<a href="https://www.linkedin.com/in/nicolas-lopes-eng/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/linkedin-dark.svg">
+  <img alt="LinkedIn" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/linkedin-light.svg">
+</picture></a>
+</div>
 
-## Experience with:
+### Projects
 
-### Main Stack:
+- [tool-box-manager](https://github.com/thenickz/tool-box-manager): TUI for your personal CLI tools
+- [core-kit-framework](https://github.com/thenickz/core-kit-framework): Python project toolkit
+- [agent-dotfiles](https://github.com/thenickz/agent-dotfiles): portable brain for AI agents
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+### Skills
+#### Backend
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/python-dark.svg">
+  <img alt="Python" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/python-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/fastapi-dark.svg">
+  <img alt="FastAPI" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/fastapi-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/postgresql-dark.svg">
+  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/postgresql-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/docker-dark.svg">
+  <img alt="Docker" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/docker-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/aws-dark.svg">
+  <img alt="AWS" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/aws-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/cloudflare-dark.svg">
+  <img alt="Cloudflare" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/cloudflare-light.svg">
+</picture>
+</div>
 
-### Other:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto)
-
-### Embedded Systems:
-
-![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-005cfc?style=for-the-badge)
-![NXP](https://img.shields.io/badge/NXP-ff7400?style=for-the-badge)
-![Nordic](https://img.shields.io/badge/Nordic-005cfc?style=for-the-badge)
-
-![FatFs](https://img.shields.io/badge/FatFs-2d34fc?style=for-the-badge)
-![LVGL](https://img.shields.io/badge/LVGL-cc1414?style=for-the-badge)
-![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
-
-### Setup:
-
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Zed](https://img.shields.io/badge/Zed-white?style=for-the-badge&logo=zedindustries&logoColor=084CCF)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
-## Social:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicklopes2098@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nicolas-lopes-eng/)
-
-## Academic background:
-
-- **A.A.S. in Computer Science**
-- **(studying) B.S. Mechatronic Engineer**
-- **(studying) B.S. Software Engineer**
+#### Embedded
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/c-dark.svg">
+  <img alt="C" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/c-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/stm32-dark.svg">
+  <img alt="STM32" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/stm32-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/esp32-dark.svg">
+  <img alt="ESP32" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/esp32-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/nxp-dark.svg">
+  <img alt="NXP" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/nxp-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/nordic-dark.svg">
+  <img alt="Nordic" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/nordic-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/kicad-dark.svg">
+  <img alt="KiCad" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/kicad-light.svg">
+</picture>
+</div> 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
