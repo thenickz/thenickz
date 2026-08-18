@@ -17,11 +17,14 @@
 </picture></a>
 </div>
 
-### Projects
+### My Projects
 
-- [tool-box-manager](https://github.com/thenickz/tool-box-manager): TUI for your personal CLI tools
-- [core-kit-framework](https://github.com/thenickz/core-kit-framework): Python project toolkit
-- [agent-dotfiles](https://github.com/thenickz/agent-dotfiles): portable brain for AI agents
+- 🧰 [tool-box-manager](https://github.com/thenickz/tool-box-manager): TUI for your personal CLI tools
+- 🧠 [active-brain-memory](https://github.com/thenickz/active-brain-memory): Persistent memory for AI agents
+- 🤖 [agent-dotfiles](https://github.com/thenickz/agent-dotfiles): Portable brain for AI agents
+- 📦 [core-kit-framework](https://github.com/thenickz/core-kit-framework): Python project toolkit
+- ⚡ [mini-github](https://github.com/thenickz/mini-github): Cloud codebase repository (GitHub clone)
+- 🔔 [opencode-notify](https://github.com/thenickz/opencode-notify): Desktop & Telegram notifications for opencode
 
 ### Skills
 #### Backend
