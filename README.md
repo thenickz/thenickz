@@ -22,8 +22,8 @@
 - 🧰 [tool-box-manager](https://github.com/thenickz/tool-box-manager): TUI for your personal CLI tools
 - 🧠 [active-brain-memory](https://github.com/thenickz/active-brain-memory): Persistent memory for AI agents
 - 🤖 [agent-dotfiles](https://github.com/thenickz/agent-dotfiles): Portable brain for AI agents
-- 📦 [core-kit-framework](https://github.com/thenickz/core-kit-framework): Python project toolkit
-- ⚡ [mini-github](https://github.com/thenickz/mini-github): Cloud codebase repository (GitHub clone)
+- 📦 [core-kit-framework](https://github.com/thenickz/core-kit-framework): Python project toolkit *(working in progress)*
+- ⚡ [mini-github](https://github.com/thenickz/mini-github): Cloud codebase repository (GitHub clone) *(working in progress)*
 - 🔔 [opencode-notify](https://github.com/thenickz/opencode-notify): Desktop & Telegram notifications for opencode
 
 ### Skills
