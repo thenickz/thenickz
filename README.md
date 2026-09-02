@@ -55,6 +55,26 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/cloudflare-dark.svg">
   <img alt="Cloudflare" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/cloudflare-light.svg">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/javascript-dark.svg">
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/javascript-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/typescript-dark.svg">
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/typescript-light.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/golang-dark.svg">
+  <img alt="Go" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/golang-light.svg">
+</picture>
+</div>
+
+#### Frontend
+<div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/react-dark.svg">
+  <img alt="React" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/react-light.svg">
+</picture>
 </div>
 
 #### Embedded
