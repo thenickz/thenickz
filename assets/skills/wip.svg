@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="26" viewBox="0 0 50 26" role="img" aria-label="WIP">
+  <title>WIP</title>
+  <rect width="50" height="26" rx="13" fill="#f1c40f" stroke="#d4ac0d" stroke-width="1"/>
+  <text x="25" y="17" text-anchor="middle" font-family="Menlo, Consolas, DejaVu Sans Mono, monospace" font-size="13" font-weight="bold" fill="#1f2328">WIP</text>
+</svg>

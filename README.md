@@ -19,25 +19,13 @@
 
 ### My Projects
 
-- 🧰 [tool-box-manager](https://github.com/thenickz/tool-box-manager): TUI for your personal CLI tools <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/wip-dark.svg">
-  <img alt="WIP" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/wip-light.svg">
-</picture>
+- 🧰 [tool-box-manager](https://github.com/thenickz/tool-box-manager): TUI for your personal CLI tools <img src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/wip.svg" alt="WIP" height="13">
 - 🧠 [active-brain-memory](https://github.com/thenickz/active-brain-memory): Persistent memory for AI agents
 - 🤖 [agent-dotfiles](https://github.com/thenickz/agent-dotfiles): Portable brain for AI agents
-- 📦 [core-kit-framework](https://github.com/thenickz/core-kit-framework): Python project toolkit <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/wip-dark.svg">
-  <img alt="WIP" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/wip-light.svg">
-</picture>
-- ⚡ [mini-github](https://github.com/thenickz/mini-github): Cloud codebase repository (GitHub clone) <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/wip-dark.svg">
-  <img alt="WIP" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/wip-light.svg">
-</picture>
+- 📦 [core-kit-framework](https://github.com/thenickz/core-kit-framework): Python project toolkit <img src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/wip.svg" alt="WIP" height="13">
+- ⚡ [mini-github](https://github.com/thenickz/mini-github): Cloud codebase repository (GitHub clone) <img src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/wip.svg" alt="WIP" height="13">
 - 🔔 [opencode-notify](https://github.com/thenickz/opencode-notify): Desktop & Telegram notifications for opencode
-- 🛡️ [warden-agent-monitor](https://github.com/thenickz/warden-agent-monitor): Terminal daemon that provides failure insights. <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/wip-dark.svg">
-  <img alt="WIP" src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/wip-light.svg">
-</picture>
+- 🛡️ [warden-agent-monitor](https://github.com/thenickz/warden-agent-monitor): Terminal daemon that provides failure insights. <img src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/wip.svg" alt="WIP" height="13">
 - 💳 [mini-payment-api](https://github.com/thenickz/mini-payment-api): Backend API for payments, wallets, and transactions.
 
 ### Skills
