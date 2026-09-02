@@ -19,12 +19,14 @@
 
 ### My Projects
 
-- 🧰 [tool-box-manager](https://github.com/thenickz/tool-box-manager): TUI for your personal CLI tools
+- 🧰 [tool-box-manager](https://github.com/thenickz/tool-box-manager): TUI for your personal CLI tools *(working in progress)*
 - 🧠 [active-brain-memory](https://github.com/thenickz/active-brain-memory): Persistent memory for AI agents
 - 🤖 [agent-dotfiles](https://github.com/thenickz/agent-dotfiles): Portable brain for AI agents
 - 📦 [core-kit-framework](https://github.com/thenickz/core-kit-framework): Python project toolkit *(working in progress)*
 - ⚡ [mini-github](https://github.com/thenickz/mini-github): Cloud codebase repository (GitHub clone) *(working in progress)*
 - 🔔 [opencode-notify](https://github.com/thenickz/opencode-notify): Desktop & Telegram notifications for opencode
+- 🛡️ [warden-agent-monitor](https://github.com/thenickz/warden-agent-monitor): Terminal daemon that provides failure insights.*(working in progress)*
+- 💳 [mini-payment-api](https://github.com/thenickz/mini-payment-api): Backend API for payments, wallets, and transactions.
 
 ### Skills
 #### Backend
