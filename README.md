@@ -26,7 +26,7 @@
 - ⚡ [mini-github](https://github.com/thenickz/mini-github): Cloud codebase repository (GitHub clone) <img src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/wip.svg" alt="WIP" height="13">
 - 🔔 [opencode-notify](https://github.com/thenickz/opencode-notify): Desktop & Telegram notifications for opencode
 - 🛡️ [warden-agent-monitor](https://github.com/thenickz/warden-agent-monitor): Terminal daemon that provides failure insights. <img src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/wip.svg" alt="WIP" height="13">
-- 💳 [mini-payment-api](https://github.com/thenickz/mini-payment-api): Backend API for payments, wallets, and transactions.
+- 💳 [mini-payment-api](https://github.com/thenickz/mini-payment-api): Backend API for payments, wallets, and transactions. <img src="https://raw.githubusercontent.com/thenickz/thenickz/main/assets/skills/wip.svg" alt="WIP" height="13">
 
 ### Skills
 #### Backend
